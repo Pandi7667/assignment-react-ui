@@ -1,0 +1,1 @@
+export { useGetDashboard, usePostDashboard } from "./useGetDashboard";
